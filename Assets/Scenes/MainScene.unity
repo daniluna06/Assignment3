@@ -680,7 +680,7 @@ GameObject:
   - component: {fileID: 287954606}
   - component: {fileID: 287954605}
   m_Layer: 0
-  m_Name: Bun2
+  m_Name: Bottom_Bun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -695,11 +695,11 @@ Transform:
   m_GameObject: {fileID: 287954603}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.038, y: 1.34, z: -1.429}
+  m_LocalPosition: {x: -0.052439213, y: 1.2720001, z: 0.8284558}
   m_LocalScale: {x: 0.3, y: 0.046152156, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1706636188}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!136 &287954605
 CapsuleCollider:
@@ -5361,7 +5361,7 @@ GameObject:
   - component: {fileID: 1028427003}
   - component: {fileID: 1028427002}
   m_Layer: 0
-  m_Name: Bun1
+  m_Name: Top_Bun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5376,7 +5376,7 @@ Transform:
   m_GameObject: {fileID: 1028427000}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.976, y: 1.624, z: -1.419}
+  m_LocalPosition: {x: -0.11443925, y: 1.556, z: 0.8384558}
   m_LocalScale: {x: 0.3, y: 0.1, z: 0.3}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5400,7 +5400,7 @@ Transform:
   - {fileID: 1380284331}
   - {fileID: 2043357844}
   - {fileID: 1972013696}
-  m_Father: {fileID: 1706636188}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!135 &1028427002
 SphereCollider:
@@ -8604,7 +8604,7 @@ Transform:
   m_GameObject: {fileID: 1244466670}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.4325, y: 1.6045, z: 0.959}
+  m_LocalPosition: {x: 0.4325, y: 1.6045, z: 0.86}
   m_LocalScale: {x: 0.07038796, y: 0.003456965, z: 0.08081946}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -12353,39 +12353,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1556133061}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1706636187
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1706636188}
-  m_Layer: 0
-  m_Name: Bun
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1706636188
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1706636187}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.0904393, y: -0.068, z: 2.2574558}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1028427001}
-  - {fileID: 287954604}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1777780465
 GameObject:
   m_ObjectHideFlags: 0
@@ -16207,5 +16174,6 @@ SceneRoots:
   - {fileID: 1245490447}
   - {fileID: 1244466676}
   - {fileID: 1108343891}
-  - {fileID: 1706636188}
+  - {fileID: 1028427001}
+  - {fileID: 287954604}
   - {fileID: 1804299351}
