@@ -21,4 +21,6 @@ Burger items to assemble:
 
 
 Completed burger:
+
+
 <img width="630" height="495" alt="burger" src="https://github.com/user-attachments/assets/2c71db78-18ad-49ee-8b7a-ee0c8c976f0a" />
