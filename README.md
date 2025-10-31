@@ -15,3 +15,4 @@ The assembly objects that will be created is a burger and a salad. The user will
 7. Add pickles on top of the onions
 8. Finally, place the top bun to complete the burger
 
+![Uploading burger.png…]()
