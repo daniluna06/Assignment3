@@ -1,0 +1,11 @@
+Model Information:
+* title:	salad_plate_for_restaurent_ar
+* source:	https://sketchfab.com/3d-models/salad-plate-for-restaurent-ar-eebd4178fb414bae86d051221514104a
+* author:	ap-school (https://sketchfab.com/ap-school)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "salad_plate_for_restaurent_ar" (https://sketchfab.com/3d-models/salad-plate-for-restaurent-ar-eebd4178fb414bae86d051221514104a) by ap-school (https://sketchfab.com/ap-school) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
