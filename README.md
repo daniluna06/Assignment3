@@ -15,5 +15,10 @@ The assembly objects that will be created is a burger and a salad. The user will
 7. Add pickles on top of the onions
 8. Finally, place the top bun to complete the burger
 
-<img width="630" height="495" alt="burger" src="https://github.com/user-attachments/assets/2c71db78-18ad-49ee-8b7a-ee0c8c976f0a" />
 
+Burger items to assemble:
+<img width="1597" height="748" alt="assembly" src="https://github.com/user-attachments/assets/035e717a-492c-472e-8ae5-1d71c2ead88d" />
+
+
+Completed burger:
+<img width="630" height="495" alt="burger" src="https://github.com/user-attachments/assets/2c71db78-18ad-49ee-8b7a-ee0c8c976f0a" />
