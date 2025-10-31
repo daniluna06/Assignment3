@@ -224,7 +224,7 @@ Transform:
   m_GameObject: {fileID: 54324439}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.021553, y: 1.0872, z: 0.45713}
+  m_LocalPosition: {x: 0.1927, y: 1.0011, z: 0.1641}
   m_LocalScale: {x: 0.13646181, y: 0.018656539, z: 0.13646181}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6599,7 +6599,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1877320948}
+  m_Mesh: {fileID: 323623036}
 --- !u!33 &803775890
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -9525,7 +9525,7 @@ Transform:
   m_GameObject: {fileID: 864306261}
   serializedVersion: 2
   m_LocalRotation: {x: 0.34819785, y: 0.6154333, z: -0.3799789, w: -0.5963357}
-  m_LocalPosition: {x: -0.103, y: 1.063, z: 0.388}
+  m_LocalPosition: {x: 0.1151, y: 0.9593, z: 0.3473}
   m_LocalScale: {x: 0.059283692, y: 0.059283692, z: 0.059283692}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10913,7 +10913,7 @@ Transform:
   m_GameObject: {fileID: 1028427000}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0129, y: 1.1357, z: 0.434}
+  m_LocalPosition: {x: 0.1936, y: 1.0016, z: -0.3008}
   m_LocalScale: {x: 0.21249601, y: 0.07083201, z: 0.21249601}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11326,8 +11326,8 @@ Transform:
   m_GameObject: {fileID: 1083057759}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.8761, y: -0.024679, z: -0.27129}
-  m_LocalScale: {x: 0.58457, y: 0.58457, z: 0.58457}
+  m_LocalPosition: {x: -2.5567, y: -0.024679, z: -0.27129}
+  m_LocalScale: {x: 0.79665196, y: 0.58457, z: 0.58457}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 677757079}
@@ -11544,7 +11544,7 @@ Transform:
   m_GameObject: {fileID: 1108343887}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0133, y: 1.0989, z: 0.4549}
+  m_LocalPosition: {x: -0.1082, y: 1.014, z: 0.5623}
   m_LocalScale: {x: 0.13891307, y: 0.018991664, z: 0.13891307}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15231,7 +15231,7 @@ Transform:
   m_GameObject: {fileID: 1244466670}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0294, y: 1.1098, z: 0.4575}
+  m_LocalPosition: {x: 0.048, y: 1.0023, z: -0.2737}
   m_LocalScale: {x: 0.062763944, y: 0.0030825268, z: 0.072065555}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15408,7 +15408,7 @@ Transform:
   m_GameObject: {fileID: 1245490443}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0105, y: 1.0537, z: 0.4384}
+  m_LocalPosition: {x: -0.149, y: 1.0026, z: 0.2}
   m_LocalScale: {x: 0.24512997, y: 0.015170357, z: 0.24512997}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21966,7 +21966,7 @@ GameObject:
   - component: {fileID: 1470800120}
   - component: {fileID: 1470800119}
   m_Layer: 0
-  m_Name: Top_Bun (1)
+  m_Name: Completed_Burger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22115,7 +22115,7 @@ Transform:
   m_GameObject: {fileID: 1470800118}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0129, y: 1.15, z: -0.419}
+  m_LocalPosition: {x: -0.0129, y: 1.14, z: -0.5384}
   m_LocalScale: {x: 0.21249601, y: 0.07083201, z: 0.21249601}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22469,7 +22469,7 @@ Transform:
   m_GameObject: {fileID: 1502718310}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0111, y: 1.0744, z: 0.4414}
+  m_LocalPosition: {x: 0.0521, y: 1.0089, z: 0.3585}
   m_LocalScale: {x: 0.18591115, y: 0.0062772897, z: 0.18591115}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22662,28 +22662,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3870925838757986800, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_text
-      value: 'Burger Assembly Steps:
-
-        1) Grab the bottom bun and place it
-        on the plate
-
-        2) Add patty on top of the bottom bun
-
-        3) Add
-        cheese on top of the patty
-
-        4) Add lettuce on top of the cheese
-
-        5)
-        Add tomato on top of the lettuce
-
-        6) Add onions on top of the tomato
-
-        7)
-        Add pickles on top of the onions
-
-        8) Finally, place the top bun to
-        complete the burger'
+      value: "Follow the instructions to make a yummy burger just \nlike the assembled
+        burger on the left:\n\n1) Grab the bottom bun and place it on the plate\n2)
+        Add patty on top of the bottom bun\n3) Add cheese on top of the patty\n4)
+        Add lettuce on top of the cheese\n5) Add tomato on top of the lettuce\n6)
+        Add onions on top of the tomato\n7) Add pickles on top of the onions\n8)
+        Finally, place the top bun to complete the burger"
       objectReference: {fileID: 0}
     - target: {fileID: 3870925838757986800, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_HorizontalAlignment
@@ -22702,12 +22686,16 @@ PrefabInstance:
       value: 1.4888874
       objectReference: {fileID: 0}
     - target: {fileID: 6514101953216628371, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6514101953216628371, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 92
+      value: 86.4
       objectReference: {fileID: 0}
     - target: {fileID: 6514101953216628371, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -92.2
+      value: -70.9
       objectReference: {fileID: 0}
     - target: {fileID: 7494992191068191844, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_Pivot.x
@@ -23875,7 +23863,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1078325641}
+  m_Mesh: {fileID: 66237976}
 --- !u!33 &1761747021
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -26450,7 +26438,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 922869290}
+  m_Mesh: {fileID: 706134923}
 --- !u!33 &1776074551
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -32474,7 +32462,7 @@ Transform:
   m_GameObject: {fileID: 1882190248}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0129, y: 1.0211, z: 0.4401}
+  m_LocalPosition: {x: 0.1245, y: 1.0105, z: 0.5684}
   m_LocalScale: {x: 0.23903945, y: 0.021670902, z: 0.23903945}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -34406,7 +34394,7 @@ Transform:
   m_GameObject: {fileID: 2067176489}
   serializedVersion: 2
   m_LocalRotation: {x: 0.27944422, y: 0.5840745, z: -0.38893262, w: -0.655362}
-  m_LocalPosition: {x: -0.10197, y: 1.0725, z: 0.48585}
+  m_LocalPosition: {x: 0.1052, y: 0.9573, z: 0.4051}
   m_LocalScale: {x: 0.058294438, y: 0.058294438, z: 0.058294438}
   m_ConstrainProportionsScale: 0
   m_Children:
