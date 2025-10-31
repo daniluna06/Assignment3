@@ -12248,6 +12248,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 719059521082523796, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1316921676078048805, guid: 0b41020dd5ec695439cd70399827b239, type: 3}
       propertyPath: m_Name
       value: Burger Menu
