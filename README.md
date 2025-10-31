@@ -17,6 +17,8 @@ The assembly objects that will be created is a burger and a salad. The user will
 
 
 Burger items to assemble:
+
+
 <img width="1597" height="748" alt="assembly" src="https://github.com/user-attachments/assets/035e717a-492c-472e-8ae5-1d71c2ead88d" />
 
 
