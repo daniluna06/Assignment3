@@ -15,12 +15,3 @@ The assembly objects that will be created is a burger and a salad. The user will
 7. Add pickles on top of the onions
 8. Finally, place the top bun to complete the burger
 
-## Salad Assembly Steps:
-1. Add lettuces as the base in the bowl
-2. Add tomatos
-3. Add cucumbers
-4. Add chic peas
-5. Add purple onions
-6. Add radish
-7. Add bites of bacon
-8. Finally, add pickles to complete the salad
